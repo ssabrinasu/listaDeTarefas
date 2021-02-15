@@ -27,6 +27,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "androidStatusBar":{
+      "barStyle": "light-content",
+      "backgroudColor": "#000"
     }
+
   }
 }
